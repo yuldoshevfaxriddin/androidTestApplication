@@ -1,0 +1,324 @@
+{
+  "basaquestions": [
+    {
+      "question": "What ____ their _____? Alexander and Philip.",
+      "answer1": "are / name",
+      "answer2": "is / name",
+      "answer3": "is / names",
+      "answer4": "are / names",
+      "correct": "are / names"
+    },
+    {
+      "question": "I ______ 22 years old, but Andrew ______ 2.",
+      "answer1": "am / am",
+      "answer2": "are / am",
+      "answer3": "am / is",
+      "answer4": "are / are",
+      "correct": "am / is"
+    },
+    {
+      "question": "Mark______ 19, but Brian and Denise ______ 26 and 28",
+      "answer1": "is / are",
+      "answer2": "are / is",
+      "answer3": "are / are",
+      "answer4": "am / are",
+      "correct": "is / are"
+    },
+    {
+      "question": " “What ______ this?”\n“It’s ______ umbrella.”",
+      "answer1": "are / a",
+      "answer2": "is / a",
+      "answer3": "is / an",
+      "answer4": "its / an",
+      "correct": "is / an"
+    },
+    {
+      "question": "How old is your aunt?\n ______ is 29.”",
+      "answer1": "She",
+      "answer2": "He",
+      "answer3": "She's",
+      "answer4": "He's",
+      "correct": "She's"
+    },
+    {
+      "question": "Where ______ she from?\nShe ______ from Japan.",
+      "answer1": "are / is",
+      "answer2": "is / is",
+      "answer3": "is / am",
+      "answer4": "are / are",
+      "correct": "is / is"
+    },
+    {
+      "question": "This ______ my friend. ______ name’s Richard.",
+      "answer1": "are / His",
+      "answer2": "s / My",
+      "answer3": "is / His",
+      "answer4": "his / His",
+      "correct": "is / His"
+    },
+    {
+      "question": "They ______ Lisa and Max. They ______ from the USA.",
+      "answer1": " is / is",
+      "answer2": "are / is",
+      "answer3": "are / are",
+      "answer4": "is / is",
+      "correct": "are / are"
+    },
+    {
+      "question": "What is ______ name? My name's Carlos.",
+      "answer1": "feel",
+      "answer2": "each",
+      "answer3": "yohit",
+      "answer4": "my",
+      "correct": "your"
+    },
+    {
+      "question": "This is my sister. ______ name is Laura.",
+      "answer1": "Feel",
+      "answer2": "My",
+      "answer3": "Any",
+      "answer4": "Dogs",
+      "correct": "Any"
+    },
+    {
+      "question": "I have ______ brother. ______ name is David",
+      "answer1": "an / Sense",
+      "answer2": "a / Her",
+      "answer3": "a / His",
+      "answer4": "* / Sense",
+      "correct": "a / His"
+    },
+    {
+      "question": "Hello! My ___ ___ Maria. I ___ ___ Mexico.",
+      "answer1": "name is / from am",
+      "answer2": "is name / from am",
+      "answer3": "name is / am from",
+      "answer4": "name am / is from",
+      "correct": "name is / am from"
+    },
+    {
+      "question": "Is Catherine ______ sister?",
+      "answer1": "he",
+      "answer2": "you",
+      "answer3": "your",
+      "answer4": "yours",
+      "correct": "your"
+    },
+    {
+      "question": "We ______ students.",
+      "answer1": "are a",
+      "answer2": "is",
+      "answer3": "are",
+      "answer4": "am",
+      "correct": "are"
+    },
+    {
+      "question": "I ______ student.",
+      "answer1": "is / an",
+      "answer2": "am / *",
+      "answer3": "am / a",
+      "answer4": "am / the",
+      "correct": "am / a"
+    },
+    {
+      "question": "She ______ Italy",
+      "answer1": "are from",
+      "answer2": "is at",
+      "answer3": "is from",
+      "answer4": "am from",
+      "correct": "is from"
+    },
+    {
+      "question": "He is ______ teacher",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "*",
+      "answer4": "the",
+      "correct": "a"
+    },
+    {
+      "question": "I live ______ a house ______ Los Angeles",
+      "answer1": " * / in",
+      "answer2": "in / in",
+      "answer3": "in / *",
+      "answer4": "at / in",
+      "correct": "in / in"
+    },
+    {
+      "question": "“______ is your phone number?”\n“It’s 2229\"",
+      "answer1": "Where",
+      "answer2": "How",
+      "answer3": "What",
+      "answer4": "Who",
+      "correct": "What"
+    },
+    {
+      "question": "______ are you?\nI'm Alex.",
+      "answer1": "Which",
+      "answer2": "How",
+      "answer3": "What",
+      "answer4": "Who",
+      "correct": "Who"
+    },
+    {
+      "question": "What's this ______ English?",
+      "answer1": "*",
+      "answer2": "in",
+      "answer3": "at",
+      "answer4": "on",
+      "correct": "in"
+    },
+    {
+      "question": "Champaigne is ______ French drink.",
+      "answer1": "a",
+      "answer2": "the",
+      "answer3": "an",
+      "answer4": "*",
+      "correct": "a"
+    },
+    {
+      "question": "Oxford is ______ English university.",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "an"
+    },
+    {
+      "question": "A Mercedes is ______ German car",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "a"
+    },
+    {
+      "question": "English is ______ international language.",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "an"
+    },
+    {
+      "question": "Milan is ______ Italian city.",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "an"
+    },
+    {
+      "question": "A JVC is ______ Japanese camera",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "a"
+    },
+    {
+      "question": "I have two ______ .",
+      "answer1": "sister",
+      "answer2": "sisters",
+      "answer3": "a sister",
+      "answer4": "sister's",
+      "correct": "sisters"
+    },
+    {
+      "question": "It’s ______ Spanish orange.",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "a"
+    },
+    {
+      "question": "It’s ______ green apple.",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "answer4": "*",
+      "correct": "a"
+    },
+    {
+      "question": "A- Hello, what ______ your name?",
+      "answer1": "is",
+      "answer2": "are",
+      "answer3": "am",
+      "answer4": "be",
+      "correct": "is"
+    },
+    {
+      "question": " ______ name is John. And my ______ is Johnson",
+      "answer1": "Your / surname",
+      "answer2": "My / surname",
+      "answer3": " I / surname",
+      "answer4": "I / name",
+      "correct": "My / surname"
+    },
+    {
+      "question": "My name is Lisa. ______ Lisa Peterson",
+      "answer1": "My am",
+      "answer2": "I am",
+      "answer3": "I is",
+      "answer4": "I",
+      "correct": " I am"
+    },
+    {
+      "question": "______ name is Apple. ______ Ann Apple",
+      "answer1": "He/She",
+      "answer2": "His / He's",
+      "answer3": "Her / She's",
+      "answer4": "Her / She's",
+      "correct": "Her / She's"
+    },
+    {
+      "question": "Where ______ John from?______ from the US.",
+      "answer1": "is / He's",
+      "answer2": "is / His",
+      "answer3": "am / He's",
+      "answer4": "is / She's",
+      "correct": "is / He's"
+    },
+    {
+      "question": "______ are you from? Japan.",
+      "answer1": "What",
+      "answer2": "Who",
+      "answer3": "Where",
+      "answer4": "When",
+      "correct": "Where"
+    },
+    {
+      "question": "Where ______ you ______ ?",
+      "answer1": " is / from",
+      "answer2": "are / in",
+      "answer3": "are / is",
+      "answer4": "are / from",
+      "correct": "are / from"
+    },
+    {
+      "question": "______ from Spain. I'm Rodriguez.",
+      "answer1": "I'm",
+      "answer2": "He's",
+      "answer3": "You're",
+      "answer4": "She's",
+      "correct": "I'm"
+    },
+    {
+      "question": "Pierre is a French boy. ______ from ______ .",
+      "answer1": "He's / France",
+      "answer2": "His's / French",
+      "answer3": "His / France",
+      "answer4": "He / France",
+      "correct": "He's / France"
+    },
+    {
+      "question": "Lisa and Max are Americans. ______ from U.S.A",
+      "answer1": "There",
+      "answer2": "Their",
+      "answer3": "They're",
+      "answer4": "Their're",
+      "correct": "They're"
+    }
+  ]
+}

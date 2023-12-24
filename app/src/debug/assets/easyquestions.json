@@ -1,0 +1,84 @@
+{
+  "easyquestions": [
+    {
+      "question": "A- Hello, what ______ your name?",
+      "answer1": "is",
+      "answer2": "are",
+      "answer3": "am",
+      "answer4": "be",
+      "correct": "is"
+    },
+    {
+      "question": " ______ name is John. And my ______ is Johnson",
+      "answer1": "Your / surname",
+      "answer2": "My / surname",
+      "answer3": " I / surname",
+      "answer4": "I / name",
+      "correct": "My / surname"
+    },
+    {
+      "question": "My name is Lisa. ______ Lisa Peterson",
+      "answer1": "My am",
+      "answer2": "I am",
+      "answer3": "I is",
+      "answer4": "I",
+      "correct": " I am"
+    },
+    {
+      "question": "______ name is Apple. ______ Ann Apple",
+      "answer1": "He/She",
+      "answer2": "His / He's",
+      "answer3": "Her / She's",
+      "answer4": "Her / She's",
+      "correct": "Her / She's"
+    },
+    {
+      "question": "Where ______ John from?______ from the US.",
+      "answer1": "is / He's",
+      "answer2": "is / His",
+      "answer3": "am / He's",
+      "answer4": "is / She's",
+      "correct": "is / He's"
+    },
+    {
+      "question": "______ are you from? Japan.",
+      "answer1": "What",
+      "answer2": "Who",
+      "answer3": "Where",
+      "answer4": "When",
+      "correct": "Where"
+    },
+    {
+      "question": "Where ______ you ______ ?",
+      "answer1": " is / from",
+      "answer2": "are / in",
+      "answer3": "are / is",
+      "answer4": "are / from",
+      "correct": "are / from"
+    },
+    {
+      "question": "______ from Spain. I'm Rodriguez.",
+      "answer1": "I'm",
+      "answer2": "He's",
+      "answer3": "You're",
+      "answer4": "She's",
+      "correct": "I'm"
+    },
+    {
+      "question": "Pierre is a French boy. ______ from ______ .",
+      "answer1": "He's / France",
+      "answer2": "His's / French",
+      "answer3": "His / France",
+      "answer4": "He / France",
+      "correct": "He's / France"
+    },
+    {
+      "question": "Lisa and Max are Americans. ______ from U.S.A",
+      "answer1": "There",
+      "answer2": "Their",
+      "answer3": "They're",
+      "answer4": "Their're",
+      "correct": "They're"
+    }
+  ]
+}
